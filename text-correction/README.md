@@ -40,14 +40,23 @@ flowchart LR
 
 ## 教程
 ### 教程内容
+教程本体。供学员可以阅读，操作使用。
 ### 教程设计
+记录教程大纲，教程思路信息。
 ### 习题集
+课后练习实战巩固。
 
 ## 参考内容
 
 ### 评测指标
+讲解一下准确、召回、精确、F1、F0.5
 
 ### 论文&项目
+整理一些中文纠错的论文和项目。
+
+主要介绍一下pycorrector项目中的方法
+
+论文上选取FASPell和Mac4bert来介绍
 
 ### 参考资源
 * [1] Text Correction Papers [https://github.com/nghuyong/text-correction-papers](https://github.com/nghuyong/text-correction-papers)
